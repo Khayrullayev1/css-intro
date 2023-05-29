@@ -3,5 +3,9 @@ h1{
     text-align: center;
 }
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(218, 165, 101);
+}
+p{
+    text-align: left;
+    background-color: bisque;
 }
