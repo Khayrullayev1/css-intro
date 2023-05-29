@@ -9,4 +9,14 @@ p{
     text-align: left;
     background-color: bisque;
     font-size: medium;
+    display: inline-block;
+    border: 12px black solid;
+}
+
+p2{
+    background-color: bisque;
+    font-size: medium;
+    display: block;
+    border: 12px black solid;
+    
 }
